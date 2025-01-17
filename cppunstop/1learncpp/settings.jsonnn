@@ -1,0 +1,24 @@
+{
+    "cmake.configureOnOpen": true,
+    "workbench.settings.applyToAllProfiles": [],
+    "code-runner.runInTerminal": true,
+    "json.schemas": [],
+    "launch": {
+      "configurations": [],
+      "compounds": []
+    },
+    "terminal.integrated.profiles.linux": {
+      "zsh": {
+        "path": "/usr/bin/zsh"
+      }
+    },
+    "terminal.integrated.cwd": "/your/desired/directory",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "icons",
+    "git.path": "/usr/bin/git",
+    "redhat.telemetry.enabled": true,
+    "terminal.integrated.defaultProfile.linux": "zsh"
+  
+  
+  }
+  
